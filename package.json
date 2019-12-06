@@ -1,0 +1,27 @@
+{
+  "name": "react-native-map-selection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dobyc/react-native-map-selection.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-map",
+    "react-native-map-selection"
+  ],
+  "author": "Dobyc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dobyc/react-native-map-selection/issues"
+  },
+  "homepage": "https://github.com/Dobyc/react-native-map-selection#readme"
+}
